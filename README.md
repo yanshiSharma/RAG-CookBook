@@ -7,7 +7,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/yanshiSharma/RAG-CookBook?style=flat-square)](https://github.com/yanshiSharma/RAG-CookBook/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/yanshiSharma/RAG-CookBook?style=flat-square)](0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 </div>
 
