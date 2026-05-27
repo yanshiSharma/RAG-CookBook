@@ -2,7 +2,7 @@
 
 # 📚 RAG-CookBook
 
-### A practical, hands-on collection of Retrieval-Augmented Generation patterns — from Naive to Agentic.
+### A practical, hands-on collection of Retrieval-Augmented Generation patterns -— from Naive to Agentic.
 
 [![GitHub Stars](https://img.shields.io/github/stars/yanshiSharma/RAG-CookBook?style=flat-square)](https://github.com/yanshiSharma/RAG-CookBook/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/yanshiSharma/RAG-CookBook?style=flat-square)](0)
